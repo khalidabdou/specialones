@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Android-Music-Player" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android-Smart-Login" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidCallBlockingTestDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ClientApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ExoPlayback" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FakeVideoCall" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FilePicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Firebase-Authentication-MVP-Java-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hover" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ImportFromExcel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NativeAdRecyclerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PerfectShow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PerfectShow/OpenCV" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PhoneProfilesPlus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QuizFireStore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StaDown-WhatsappStatusdownload" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SupportDesignLibrarySample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-services-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/audience-network" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codeigniter-reg-login" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fb-audience-network-android-demo-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jalalClientSteamingLive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple-android-lockscreen-ads" vcs="Git" />
+  </component>
+</project>
